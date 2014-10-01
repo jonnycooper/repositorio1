@@ -1,0 +1,81 @@
+.nav{
+	margin-left:30%;
+	font-size:20px;
+
+}
+body{
+	font-family: 'Lobster', cursive;
+	background-image: url('../imagenes/fon.jpg');
+}
+.imageProfile{
+	width: 210px;
+	border-radius: 500px;
+	
+
+}
+.profileAside{
+	padding-left: 40px;
+	text-align: center;
+	width: 15%;
+	display: inline-block;
+
+}
+.myDescription{
+font-style: italic;
+}
+.contenedorPrincipal{
+	width: 75%;
+	display:inline-block;
+	vertical-align: top;
+	margin-left: 65px;
+	height: 0px;
+	margin-top: 10px;
+}
+.subTitulo{
+	border-bottom: 2px solid orange;
+	width: 145px;
+	
+}
+.glyphicon-globe{
+	font-size: 70px;
+	color: white;
+}
+.contacProfile{
+	text-align: center;
+	margin-top: -100px;
+}
+.classOficina{
+	font-size: 20px;
+}
+.classSf{
+	font-size: 19px;
+}
+.classSe{
+	font-size: 17px;
+}
+.classNum{
+	font-size: 17px;
+}
+.classFace{
+	font-size: 17px;
+}
+.classTw{
+	font-size: 17px;
+}
+.classJ{
+	font-size: 17px;
+}
+.contenedorHabilidades{
+	width: 60%;
+	display:inline-block;
+	margin-left: 10%
+}
+#menu{
+	position:fixed;
+	z-index: 70;
+}
+.contenedorPortafolio{
+	text-align: center;
+	margin-top: -15px;
+
+}
